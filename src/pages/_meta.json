@@ -1,0 +1,10 @@
+{
+  "index": {
+    "type": "page",
+    "display": "hidden",
+    "title": "Who am I?",
+    "theme": {
+      "layout": "full"
+    }
+  }
+}
